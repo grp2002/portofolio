@@ -19,10 +19,3 @@ This project was developed as part of my **BEng Computer Science & Electronic En
 - **Software:** React Native (Mobile App), Node.js (Proxy Server)  
 - **Languages:** C++, JavaScript
 
-## 🚀 How to Run
-
-1. **Clone the Repository**
-
-```bash
-git clone https://github.com/grp2002/portfolio.git
-cd Automatic-Plant-Irrigation-System
