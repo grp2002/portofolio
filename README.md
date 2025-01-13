@@ -21,13 +21,13 @@ Showcasing personal and collaborative projects.
 
 ### 🚀 **Internship Projects (CyRIC - Cyprus Research & Innovation Centre)**
 
-#### 📦 [Cyprus Post Route Optimization System](https://github.com/grp2002/portfolio/tree/main/Internship/Cyprus-Post-Route-Optimization)  
+#### 📦 [Cyprus Post Route Optimization System](https://github.com/grp2002/portofolio/tree/main/Internship/Cyprus%20Post%20Route%20Optimizationn)  
 **Java, Python, MySQL, Mobile App Development**  
 - Developed a **route optimization system** to improve delivery efficiency.  
 - Enhanced mobile app features with **real-time tracking** and **data validation**.  
 - Created a **Java console app** for sensor monitoring with **email notifications**.
 
-#### 🔒 [Sensor Monitoring & Notification System](https://github.com/grp2002/portfolio/tree/main/Internship/Sensor-Monitoring-and-Notification-System)  
+#### 🔒 [Sensor Monitoring & Notification System](https://github.com/grp2002/portofolio/tree/main/Internship/Sensor%20Monitoring%20and%20Notification%20System)  
 **Java, MySQL, XAMPP**  
 - Designed a system to **monitor sensor activity** and automate **email notifications**.  
 - Enhanced system reliability and reduced manual monitoring efforts.
