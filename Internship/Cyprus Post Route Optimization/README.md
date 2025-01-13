@@ -31,13 +31,6 @@ As part of my internship at **CyRIC**, I contributed to the development of a **R
 
 ---
 
-## 📄 Documentation
-
-- [System Architecture Overview (PDF)](#)  
-- [Technical Approach Summary (PDF)](#)
-
----
-
 ## 📄 License
 
 This project was developed during my internship at **Cyprus Research & Innovation Centre (CyRIC)** and is presented here for professional portfolio purposes only.
