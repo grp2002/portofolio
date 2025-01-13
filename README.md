@@ -1,5 +1,5 @@
-# Portofolio
-My portfolio showcasing personal and collaborative projects.
+# 📂 Portfolio  
+Showcasing personal and collaborative projects.
 
 # 👋 Hi, I'm Gregory Paphiti
 
@@ -19,28 +19,39 @@ My portfolio showcasing personal and collaborative projects.
 
 ## 📂 **Featured Projects**
 
-### 🔒 [Sensor Monitoring & Notification System](https://github.com/grp2002/portofolio/tree/main/Sensor%20Monitoring%20%26%20Notification%20System)  
+### 🚀 **Internship Projects (CyRIC - Cyprus Research & Innovation Centre)**
+
+#### 📦 [Cyprus Post Route Optimization System](https://github.com/grp2002/portfolio/tree/main/Internship/Cyprus-Post-Route-Optimization)  
+**Java, Python, MySQL, Mobile App Development**  
+- Developed a **route optimization system** for Cyprus Post Office to improve delivery efficiency.  
+- Enhanced the mobile app with **real-time tracking** and **data validation**.  
+- Created a **Java console app** for sensor monitoring with **email notifications**.
+
+#### 🔒 [Sensor Monitoring & Notification System](https://github.com/grp2002/portfolio/tree/main/Internship/Sensor-Monitoring-and-Notification-System)  
 **Java, MySQL, XAMPP**  
-- Developed a configurable real-time sensor monitoring system.  
-- Integrated automated email notifications for inactive sensors, reducing manual checks by 50%.
+- Designed a system to **monitor sensors** and send **automated email alerts**.  
+- Improved system reliability by reducing manual checks by **50%**.
 
-### 🌿 [IoT-Based Automated Irrigation System](https://github.com/grp2002/portofolio/tree/main/IoT-Based%20Automated%20Irrigation%20System)  
+---
+
+### 🌿 [IoT-Based Automated Irrigation System](https://github.com/grp2002/portfolio/tree/main/IoT-Based-Automated-Irrigation-System)  
 **Arduino, Cloud Services, Mobile Interface**  
-- Designed an IoT system automating plant irrigation using sensor data.  
-- Implemented cloud-based remote control via a user-friendly mobile app.  
-- 📖 [Read the Technical Blog](#)  
+- Designed an **IoT irrigation system** with smart sensors and cloud-based control.  
+- Built a **mobile interface** for real-time monitoring and management.
 
-### 🚗 [Gesture-Controlled Car](https://github.com/grp2002/portofolio/tree/main/Gesture-Controlled%20Car)  
+---
+
+### 🚗 [Gesture-Controlled Car](https://github.com/grp2002/portfolio/tree/main/Gesture-Controlled-Car)  
 **Arduino, Sensors, Embedded Systems**  
-- Developed a car controlled via hand gestures using a gyroscope.  
-- Focused on intuitive and precise control mechanisms.  
+- Developed a car controlled by **hand gestures** using a gyroscope sensor.  
+- Focused on creating **responsive and intuitive controls**.
 
 ---
 
 ## 🎓 **Education**
 
-- **MSc Computer Systems Engineering** - *University of Glasgow* (2024 - Present)  
-- **BEng Computer Science & Electronic Engineering** - *University of Liverpool* (2:1, 2021 - 2024)  
+- **MSc Computer Systems Engineering** – *University of Glasgow* (2024 – Present)  
+- **BEng Computer Science & Electronic Engineering** – *University of Liverpool* (2:1, 2021 – 2024)  
 
 ---
 
@@ -48,4 +59,3 @@ My portfolio showcasing personal and collaborative projects.
 
 - 📧 [gregorypafitis@gmail.com](mailto:gregorypafitis@gmail.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/gregory-pafitis-909069276/)  
-
