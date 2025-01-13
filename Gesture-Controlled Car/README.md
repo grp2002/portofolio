@@ -4,7 +4,7 @@
 
 ## 📖 Project Overview
 
-Developed an **Arduino-based embedded system** that enables wireless driving of a car through **hand gestures**. The system controls forward, backward, left, and right movements at variable speeds, determined by data from an **accelerometer**. Communication between the controller and the car is established via **Bluetooth HC-05 modules** for seamless control.
+Developed an **Arduino-based embedded system**, as an academic group project, that enables wireless driving of a car through **hand gestures**. The system controls forward, backward, left, and right movements at variable speeds, determined by data from an **accelerometer**. Communication between the controller and the car is established via **Bluetooth HC-05 modules** for seamless control.
 
 ## 🔧 Methodology
 
