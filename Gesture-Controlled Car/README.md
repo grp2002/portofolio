@@ -23,7 +23,7 @@ Developed an **Arduino-based embedded system** that enables wireless driving of 
 
 ## 📸 Project Poster
 
-![Gesture Controlled Car](./screenshots/gesture_control_poster.jpg)
+![Gesture Controlled Car](Gesture-Controlled Car/Gesture control.jpg)
 
 ## ⚙️ Code Settings
 
