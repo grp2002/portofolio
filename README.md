@@ -23,35 +23,38 @@ Showcasing personal and collaborative projects.
 
 #### 📦 [Cyprus Post Route Optimization System](https://github.com/grp2002/portfolio/tree/main/Internship/Cyprus-Post-Route-Optimization)  
 **Java, Python, MySQL, Mobile App Development**  
-- Developed a **route optimization system** for Cyprus Post Office to improve delivery efficiency.  
-- Enhanced the mobile app with **real-time tracking** and **data validation**.  
+- Developed a **route optimization system** to improve delivery efficiency.  
+- Enhanced mobile app features with **real-time tracking** and **data validation**.  
 - Created a **Java console app** for sensor monitoring with **email notifications**.
 
 #### 🔒 [Sensor Monitoring & Notification System](https://github.com/grp2002/portfolio/tree/main/Internship/Sensor-Monitoring-and-Notification-System)  
 **Java, MySQL, XAMPP**  
-- Designed a system to **monitor sensors** and send **automated email alerts**.  
-- Improved system reliability by reducing manual checks by **50%**.
+- Designed a system to **monitor sensor activity** and automate **email notifications**.  
+- Enhanced system reliability and reduced manual monitoring efforts.
 
 ---
 
-### 🌿 [IoT-Based Automated Irrigation System](https://github.com/grp2002/portfolio/tree/main/IoT-Based-Automated-Irrigation-System)  
-**Arduino, Cloud Services, Mobile Interface**  
-- Designed an **IoT irrigation system** with smart sensors and cloud-based control.  
-- Built a **mobile interface** for real-time monitoring and management.
+### 🌿 [Automatic Plant Irrigation System (Dissertation)](https://github.com/grp2002/portfolio/tree/main/Automatic-Plant-Irrigation-System)  
+**Arduino, React Native, Node.js, IoT**  
+- Awarded a **First-Class** grade for this **dissertation project**.  
+- Developed an **automated irrigation system** using **soil moisture sensors** for smart watering.  
+- Created a **React Native mobile app** for real-time monitoring and manual pump control.  
+- Integrated a **proxy server** for seamless data exchange between hardware and app.  
+- Achieved up to **50% reduction in water usage** compared to manual watering.
 
 ---
 
 ### 🚗 [Gesture-Controlled Car](https://github.com/grp2002/portfolio/tree/main/Gesture-Controlled-Car)  
 **Arduino, Sensors, Embedded Systems**  
-- Developed a car controlled by **hand gestures** using a gyroscope sensor.  
-- Focused on creating **responsive and intuitive controls**.
+- Created a car controlled by **hand gestures** using a gyroscope sensor.  
+- Focused on developing **responsive and intuitive controls**.
 
 ---
 
 ## 🎓 **Education**
 
 - **MSc Computer Systems Engineering** – *University of Glasgow* (2024 – Present)  
-- **BEng Computer Science & Electronic Engineering** – *University of Liverpool* (2:1, 2021 – 2024)  
+- **BEng Computer Science & Electronic Engineering** – *University of Liverpool* (**First-Class**, 2021 – 2024)  
 
 ---
 
