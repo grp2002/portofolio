@@ -1,21 +1,37 @@
-# 🌿 Automatic Plant Irrigation System with User-Controlled Mobile Interface
+# 🌿 IoT-Based Automated Irrigation System with User-Controlled Mobile Interface
 
-**Dissertation Project | University of Liverpool | Awarded First-Class Honours**
+**First-Class Dissertation Project | University of Liverpool**
 
 ## 📖 Project Overview
 
-This project was developed as part of my **BEng Computer Science & Electronic Engineering** dissertation and was awarded a **First-Class** grade. It focuses on creating an **Arduino-based automated irrigation system** that uses **soil moisture sensors** to intelligently manage plant watering. The system is remotely controlled and monitored via a custom-built **React Native mobile app**.
+The **IoT-Based Automated Irrigation System** is designed to automate plant watering using real-time data from **soil moisture sensors**. This smart system reduces water waste by intelligently controlling the water pump based on environmental conditions. The system is remotely monitored and controlled through a custom-built **React Native mobile app**.
+
+---
 
 ## 🔧 Key Features
 
-- **Real-Time Moisture Monitoring:** Instant updates on soil moisture levels.  
-- **Automated Watering:** Activates the water pump when moisture drops below a set threshold.  
-- **Mobile Control:** Manual pump activation and threshold configuration via a mobile app.  
-- **Proxy Server:** Seamless data exchange between the Arduino system and the mobile app.
+- **Real-Time Moisture Monitoring:** Continuously checks soil moisture levels.  
+- **Automated Watering:** Activates the water pump when the soil is dry.  
+- **Manual Control:** Allows users to manually control the pump through a mobile app.  
+- **Threshold Configuration:** Users can set custom moisture thresholds for watering.  
+- **Cloud Integration:** Synchronizes data between hardware and the mobile app through a proxy server.
+
+---
 
 ## 🛠️ Tech Stack
 
-- **Hardware:** Arduino Uno Wi-Fi Rev 2, Soil Moisture Sensor, Water Pump  
+- **Hardware:** Arduino Uno Wi-Fi Rev 2, Soil Moisture Sensors, Water Pump  
 - **Software:** React Native (Mobile App), Node.js (Proxy Server)  
-- **Languages:** C++, JavaScript
+- **Languages:** C++, JavaScript  
+- **Tools:** Arduino IDE, Expo CLI, MySQL
 
+---
+## 📸 Demo
+
+### **System Overview**
+
+![System Diagram](./screenshots/system_diagram.png)
+
+### **Mobile App Interface**
+
+![App Interface](./screenshots/app_interface.png)
