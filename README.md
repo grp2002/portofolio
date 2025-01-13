@@ -19,7 +19,7 @@ My portfolio showcasing personal and collaborative projects.
 
 ## 📂 **Featured Projects**
 
-### 🔒 [Sensor Monitoring & Notification System](https://github.com/yourusername/sensor-monitoring-system)  
+### 🔒 [Sensor Monitoring & Notification System](https://github.com/grp2002/portofolio/tree/main/Gesture-Controlled%20Car)  
 **Java, MySQL, XAMPP**  
 - Developed a configurable real-time sensor monitoring system.  
 - Integrated automated email notifications for inactive sensors, reducing manual checks by 50%.
