@@ -1,23 +1,27 @@
 # 🔒 Sensor Monitoring & Notification System
 
-**Java-Based Monitoring System | Automated Email Alerts**
+**Java-Based Monitoring System | Automated Email Notifications**
 
 ## 📖 Project Overview
 
-A **Java-based system** designed to continuously monitor sensors' activity through a connected **MySQL database**. The system identifies inactive sensors and automatically sends email alerts to assigned contacts.
+The **Sensor Monitoring & Notification System** is a Java-based application developed to monitor the operational status of sensors used in the **Cyprus Post Route Optimization System**. This system automatically detects inactive sensors and sends email notifications to the designated personnel to ensure continuous and efficient system operation.
+
+---
 
 ## 🔧 Key Features
 
-- **Real-Time Sensor Monitoring:** Checks sensor activity at configurable intervals.  
-- **Database Integration:** Retrieves sensor data and email contacts from MySQL.  
-- **Automated Email Notifications:** Sends alerts when sensors go offline.  
-- **Concurrent Processing:** Handles data loading, signal processing, and notifications in separate threads.  
-- **Configurable:** Easily adjustable parameters via the `config.properties` file.
+- **Real-Time Monitoring:** Continuously checks the operational status of sensors.  
+- **Automated Email Alerts:** Sends notifications to responsible personnel when sensors go offline.  
+- **Configurable Check Intervals:** Adjustable monitoring frequency for different sensors.  
+- **Error Handling & Logging:** Comprehensive logging with error detection using **Log4j**.
 
-## 🛠️ Tech Stack
+---
 
-- **Language:** Java  
-- **Database:** MySQL  
-- **Libraries:** JDBC, Log4j  
-- **Tools:** Apache Maven (for dependency management)  
+## 🛠️ Technologies Used
 
+- **Programming Language:** Java  
+- **Database:** MySQL/XAMPP  
+- **Libraries:** JDBC (database access), Log4j (logging), JavaMail API (email notifications)  
+- **Tools:** Apache Maven (for dependency management)
+
+---
