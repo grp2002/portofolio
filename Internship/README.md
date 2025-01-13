@@ -19,5 +19,5 @@ This folder contains all the projects completed during my internship at **CyRIC 
 
 ## 📄 Additional Documentation
 
-- [Internship Report](./Internship-Report.pdf)
+- [Internship Report](./GregorisPaphiti_InternReport(1).PDF)
 
