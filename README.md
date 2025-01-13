@@ -21,7 +21,7 @@ Showcasing personal and collaborative projects.
 
 ### 🚀 **Internship Projects (CyRIC - Cyprus Research & Innovation Centre)**
 
-#### 📦 [Cyprus Post Route Optimization System](https://github.com/grp2002/portofolio/tree/main/Internship/Cyprus%20Post%20Route%20Optimizationn)  
+#### 📦 [Cyprus Post Route Optimization System](https://github.com/grp2002/portofolio/tree/main/Internship/Cyprus%20Post%20Route%20Optimization)  
 **Java, Python, MySQL, Mobile App Development**  
 - Developed a **route optimization system** to improve delivery efficiency.  
 - Enhanced mobile app features with **real-time tracking** and **data validation**.  
