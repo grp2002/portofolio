@@ -19,18 +19,18 @@ My portfolio showcasing personal and collaborative projects.
 
 ## 📂 **Featured Projects**
 
-### 🔒 [Sensor Monitoring & Notification System](https://github.com/grp2002/portofolio/tree/main/Gesture-Controlled%20Car)  
+### 🔒 [Sensor Monitoring & Notification System](https://github.com/grp2002/portofolio/tree/main/Sensor%20Monitoring%20%26%20Notification%20System)  
 **Java, MySQL, XAMPP**  
 - Developed a configurable real-time sensor monitoring system.  
 - Integrated automated email notifications for inactive sensors, reducing manual checks by 50%.
 
-### 🌿 [IoT-Based Automated Irrigation System](https://github.com/yourusername/automated-irrigation)  
+### 🌿 [IoT-Based Automated Irrigation System](https://github.com/grp2002/portofolio/tree/main/IoT-Based%20Automated%20Irrigation%20System)  
 **Arduino, Cloud Services, Mobile Interface**  
 - Designed an IoT system automating plant irrigation using sensor data.  
 - Implemented cloud-based remote control via a user-friendly mobile app.  
 - 📖 [Read the Technical Blog](#)  
 
-### 🚗 [Gesture-Controlled Car](https://github.com/yourusername/gesture-controlled-car)  
+### 🚗 [Gesture-Controlled Car](https://github.com/grp2002/portofolio/tree/main/Gesture-Controlled%20Car)  
 **Arduino, Sensors, Embedded Systems**  
 - Developed a car controlled via hand gestures using a gyroscope.  
 - Focused on intuitive and precise control mechanisms.  
