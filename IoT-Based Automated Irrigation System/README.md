@@ -1,10 +1,10 @@
 # 🌿 Automatic Plant Irrigation System with User-Controlled Mobile Interface
 
-**Arduino-Based IoT Solution | Smart Water Management**
+**Dissertation Project | University of Liverpool | Awarded First-Class Honours**
 
 ## 📖 Project Overview
 
-An innovative **Arduino-based irrigation system** designed to automate plant watering through real-time data from **soil moisture sensors**. It provides remote control and live updates via a custom-built **React Native mobile app**.
+This project was developed as part of my **BEng Computer Science & Electronic Engineering** dissertation and was awarded a **First-Class** grade. It focuses on creating an **Arduino-based automated irrigation system** that uses **soil moisture sensors** to intelligently manage plant watering. The system is remotely controlled and monitored via a custom-built **React Native mobile app**.
 
 ## 🔧 Key Features
 
@@ -19,4 +19,10 @@ An innovative **Arduino-based irrigation system** designed to automate plant wat
 - **Software:** React Native (Mobile App), Node.js (Proxy Server)  
 - **Languages:** C++, JavaScript
 
+## 🚀 How to Run
 
+1. **Clone the Repository**
+
+```bash
+git clone https://github.com/grp2002/portfolio.git
+cd Automatic-Plant-Irrigation-System
