@@ -1,23 +1,55 @@
-# 🚀 Internship Projects | Cyprus Research & Innovation Centre (CyRIC)
+# 🚗 Gesture-Controlled Car
 
-This folder contains all the projects completed during my internship at **CyRIC - Cyprus Research & Innovation Centre**, where I contributed to developing innovative solutions for the **Cyprus Post Office**.
+**Arduino-Based Embedded System | Wireless Car Control via Hand Gestures**
+
+## 📖 Project Overview
+
+Developed an **Arduino-based embedded system** that enables wireless driving of a car through **hand gestures**. The system controls forward, backward, left, and right movements at variable speeds, determined by data from an **accelerometer**. Communication between the controller and the car is established via **Bluetooth HC-05 modules** for seamless control.
+
+## 🔧 Methodology
+
+- **Sensors:** Accelerometer (ADXL335) for gesture detection  
+- **Microcontrollers:** Arduino Nano (Transmitter) and Arduino Uno (Receiver)  
+- **Communication:** Bluetooth modules (Master & Slave) for wireless transmission  
+- **Actuators:** DC motors controlled via a Motor Driver  
+
+## 🔗 Components
+
+- **Accelerometer (ADXL335)** → Detects hand gestures  
+- **Arduino Nano** → Processes gesture data and sends signals via Bluetooth  
+- **Bluetooth HC-05 (Master/Slave)** → Wireless communication  
+- **Arduino Uno** → Receives signals and drives motors  
+- **Motor Driver (L298N)** → Controls the movement of DC motors  
+
+## 📸 Project Poster
+
+![Gesture Controlled Car](./screenshots/gesture_control_poster.jpg)
+
+## ⚙️ Code Settings
+
+- **Motor Control:**  
+  - Serial communication set to **38400 baud rate**.  
+  - Motor speeds vary based on **Raw accelerometer values**.  
+
+- **Receiver Configuration:**  
+  - Reads X/Y tilt angles and maps them to direction and speed.  
+  - Interprets accelerometer data to control motors.
+
+## 🚀 Limitations
+
+1. Limited **Bluetooth connectivity range**.  
+2. **Non-linear speed control** due to analog signal processing.  
+3. **Sensitivity** of direction detection may vary.  
+4. Restricted number of **speed intervals**.
+
+## 📄 References
+
+1. BUET, *Intelligent Fire Protection System*  
+2. GeeksforGeeks, *Bluetooth HC-05 Module Connection*  
 
 ---
 
-## 📂 Projects
+## 📄 License
 
-### 📦 [Cyprus Post Route Optimization System](./Cyprus-Post-Route-Optimization)  
-- Developed and tested a postal **route optimization system**.  
-- Implemented **real-time tracking** and **data validation** in the mobile app.  
-- Created a **Java console app** for sensor monitoring and **email alerts**.
-
-### 🔒 [Sensor Monitoring & Notification System](./Sensor-Monitoring-and-Notification-System)  
-- Built a system to **monitor sensor activity** and automate **email notifications**.  
-- Enhanced system reliability and reduced manual monitoring efforts.
-
----
-
-## 📄 Additional Documentation
-
-- [Internship Report](./Internship-Report.pdf)
+This project was developed as part of a group project at the **University of Liverpool**.
 
