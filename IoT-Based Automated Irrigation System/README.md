@@ -30,9 +30,9 @@ The **IoT-Based Automated Irrigation System** is designed to automate plant wate
 
 ### **System Overview**
 
-<img width="594" alt="Image" src="https://github.com/user-attachments/assets/74aebd00-edb5-4ebd-8646-8c8a6c331e4d" />
+<img width="267" alt="Screenshot 2023-10-13 201345" src="https://github.com/user-attachments/assets/a91afafc-c7e1-4143-b96c-807fc2cef5f2" />
 
-![Image](https://github.com/user-attachments/assets/6344bd78-ae22-4952-87a7-dbe5016de285)
 ### **Mobile App Interface**
 
-![App Interface](./screenshots/app_interface.png)
+![Image](https://github.com/user-attachments/assets/6344bd78-ae22-4952-87a7-dbe5016de285)
+
