@@ -21,8 +21,7 @@ Developed an **Arduino-based embedded system**, as an academic group project, th
 - **Accelerometer (ADXL335)** → Detects hand gestures  
 - **Arduino Nano** → Processes gesture data and sends signals via Bluetooth  
 - **Bluetooth HC-05 (Master/Slave)** → Wireless communication  
-- **Arduino Uno** → ![Hand Gesture Car](https://github.com/user-attachments/assets/ec5b4fad-9a8a-448b-9ca6-ea0307bf9f76)
-Receives signals and drives motors  
+- **Arduino Uno** → Receives signals and drives motors  
 - **Motor Driver (L298N)** → Controls the movement of DC motors  
 
 ## 📸 Project Poster
