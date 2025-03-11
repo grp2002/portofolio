@@ -1,0 +1,638 @@
+[
+    {
+        "opteboxId": 1082,
+        "route": "DP02",
+        "daysWithData": 2,
+        "daysWithLetter": 2
+    },
+    {
+        "opteboxId": 1083,
+        "route": "DP02",
+        "daysWithData": 2,
+        "daysWithLetter": 2
+    },
+    {
+        "opteboxId": 1080,
+        "route": "DP02",
+        "daysWithData": 2,
+        "daysWithLetter": 2
+    },
+    {
+        "opteboxId": 1078,
+        "route": "DP02",
+        "daysWithData": 2,
+        "daysWithLetter": 2
+    },
+    {
+        "opteboxId": 1084,
+        "route": "DP02",
+        "daysWithData": 2,
+        "daysWithLetter": 2
+    },
+    {
+        "opteboxId": 1067,
+        "route": "DP02",
+        "daysWithData": 2,
+        "daysWithLetter": 2
+    },
+    {
+        "opteboxId": 1068,
+        "route": "DP02",
+        "daysWithData": 2,
+        "daysWithLetter": 2
+    },
+    {
+        "opteboxId": 1072,
+        "route": "DP02",
+        "daysWithData": 2,
+        "daysWithLetter": 2
+    },
+    {
+        "opteboxId": 1069,
+        "route": "DP02",
+        "daysWithData": 2,
+        "daysWithLetter": 1
+    },
+    {
+        "opteboxId": 1074,
+        "route": "DP02",
+        "daysWithData": 2,
+        "daysWithLetter": 1
+    },
+    {
+        "opteboxId": 1075,
+        "route": "DP02",
+        "daysWithData": 2,
+        "daysWithLetter": 0
+    },
+    {
+        "opteboxId": 1073,
+        "route": "DP02",
+        "daysWithData": 2,
+        "daysWithLetter": 2
+    },
+    {
+        "opteboxId": 1070,
+        "route": "DP02",
+        "daysWithData": 2,
+        "daysWithLetter": 2
+    },
+    {
+        "opteboxId": 1066,
+        "route": "DP02",
+        "daysWithData": 2,
+        "daysWithLetter": 2
+    },
+    {
+        "opteboxId": 1077,
+        "route": "DP02",
+        "daysWithData": 2,
+        "daysWithLetter": 2
+    },
+    {
+        "opteboxId": 1076,
+        "route": "DP02",
+        "daysWithData": 2,
+        "daysWithLetter": 2
+    },
+    {
+        "opteboxId": 1081,
+        "route": "DP02",
+        "daysWithData": 2,
+        "daysWithLetter": 2
+    },
+    {
+        "opteboxId": 1071,
+        "route": "DP02",
+        "daysWithData": 2,
+        "daysWithLetter": 2
+    },
+    {
+        "opteboxId": 1079,
+        "route": "DP02",
+        "daysWithData": 2,
+        "daysWithLetter": 2
+    },
+    {
+        "opteboxId": 1064,
+        "route": "DP04",
+        "daysWithData": 2,
+        "daysWithLetter": 1
+    },
+    {
+        "opteboxId": 1096,
+        "route": "DP04",
+        "daysWithData": 2,
+        "daysWithLetter": 0
+    },
+    {
+        "opteboxId": 1149,
+        "route": "DP04",
+        "daysWithData": 2,
+        "daysWithLetter": 2
+    },
+    {
+        "opteboxId": 1025,
+        "route": "DP04",
+        "daysWithData": 2,
+        "daysWithLetter": 2
+    },
+    {
+        "opteboxId": 1065,
+        "route": "DP04",
+        "daysWithData": 2,
+        "daysWithLetter": 2
+    },
+    {
+        "opteboxId": 1060,
+        "route": "DP04",
+        "daysWithData": 2,
+        "daysWithLetter": 2
+    },
+    {
+        "opteboxId": 1057,
+        "route": "DP04",
+        "daysWithData": 2,
+        "daysWithLetter": 2
+    },
+    {
+        "opteboxId": 1061,
+        "route": "DP04",
+        "daysWithData": 2,
+        "daysWithLetter": 2
+    },
+    {
+        "opteboxId": 1062,
+        "route": "DP04",
+        "daysWithData": 2,
+        "daysWithLetter": 2
+    },
+    {
+        "opteboxId": 1059,
+        "route": "DP04",
+        "daysWithData": 2,
+        "daysWithLetter": 1
+    },
+    {
+        "opteboxId": 1094,
+        "route": "DP04",
+        "daysWithData": 2,
+        "daysWithLetter": 0
+    },
+    {
+        "opteboxId": 1091,
+        "route": "DP04",
+        "daysWithData": 2,
+        "daysWithLetter": 2
+    },
+    {
+        "opteboxId": 1165,
+        "route": "DP04",
+        "daysWithData": 2,
+        "daysWithLetter": 0
+    },
+    {
+        "opteboxId": 1093,
+        "route": "DP04",
+        "daysWithData": 2,
+        "daysWithLetter": 2
+    },
+    {
+        "opteboxId": 1085,
+        "route": "DP04",
+        "daysWithData": 2,
+        "daysWithLetter": 2
+    },
+    {
+        "opteboxId": 1089,
+        "route": "DP04",
+        "daysWithData": 2,
+        "daysWithLetter": 2
+    },
+    {
+        "opteboxId": 1088,
+        "route": "DP04",
+        "daysWithData": 2,
+        "daysWithLetter": 2
+    },
+    {
+        "opteboxId": 1092,
+        "route": "DP04",
+        "daysWithData": 2,
+        "daysWithLetter": 2
+    },
+    {
+        "opteboxId": 1095,
+        "route": "DP04",
+        "daysWithData": 2,
+        "daysWithLetter": 2
+    },
+    {
+        "opteboxId": 1167,
+        "route": "DP01",
+        "daysWithData": 2,
+        "daysWithLetter": 2
+    },
+    {
+        "opteboxId": 1058,
+        "route": "DP01",
+        "daysWithData": 2,
+        "daysWithLetter": 0
+    },
+    {
+        "opteboxId": 1135,
+        "route": "DP03",
+        "daysWithData": 2,
+        "daysWithLetter": 2
+    },
+    {
+        "opteboxId": 1044,
+        "route": "DP01",
+        "daysWithData": 2,
+        "daysWithLetter": 0
+    },
+    {
+        "opteboxId": 1132,
+        "route": "DP03",
+        "daysWithData": 2,
+        "daysWithLetter": 0
+    },
+    {
+        "opteboxId": 1022,
+        "route": "DP04",
+        "daysWithData": 2,
+        "daysWithLetter": 0
+    },
+    {
+        "opteboxId": 1016,
+        "route": "DP04",
+        "daysWithData": 2,
+        "daysWithLetter": 0
+    },
+    {
+        "opteboxId": 1134,
+        "route": "DP03",
+        "daysWithData": 2,
+        "daysWithLetter": 2
+    },
+    {
+        "opteboxId": 1030,
+        "route": "DP01",
+        "daysWithData": 2,
+        "daysWithLetter": 2
+    },
+    {
+        "opteboxId": 1009,
+        "route": "DP04",
+        "daysWithData": 2,
+        "daysWithLetter": 2
+    },
+    {
+        "opteboxId": 1011,
+        "route": "DP04",
+        "daysWithData": 2,
+        "daysWithLetter": 2
+    },
+    {
+        "opteboxId": 1056,
+        "route": "DP01",
+        "daysWithData": 2,
+        "daysWithLetter": 2
+    },
+    {
+        "opteboxId": 1013,
+        "route": "DP04",
+        "daysWithData": 2,
+        "daysWithLetter": 2
+    },
+    {
+        "opteboxId": 1133,
+        "route": "DP03",
+        "daysWithData": 2,
+        "daysWithLetter": 2
+    },
+    {
+        "opteboxId": 1010,
+        "route": "DP04",
+        "daysWithData": 2,
+        "daysWithLetter": 0
+    },
+    {
+        "opteboxId": 1041,
+        "route": "DP01",
+        "daysWithData": 2,
+        "daysWithLetter": 2
+    },
+    {
+        "opteboxId": 1159,
+        "route": "DP01",
+        "daysWithData": 2,
+        "daysWithLetter": 0
+    },
+    {
+        "opteboxId": 1042,
+        "route": "DP01",
+        "daysWithData": 2,
+        "daysWithLetter": 0
+    },
+    {
+        "opteboxId": 1019,
+        "route": "DP04",
+        "daysWithData": 2,
+        "daysWithLetter": 0
+    },
+    {
+        "opteboxId": 1023,
+        "route": "DP04",
+        "daysWithData": 2,
+        "daysWithLetter": 1
+    },
+    {
+        "opteboxId": 1043,
+        "route": "DP01",
+        "daysWithData": 2,
+        "daysWithLetter": 1
+    },
+    {
+        "opteboxId": 1158,
+        "route": "DP01",
+        "daysWithData": 2,
+        "daysWithLetter": 2
+    },
+    {
+        "opteboxId": 1008,
+        "route": "DP04",
+        "daysWithData": 1,
+        "daysWithLetter": 1
+    },
+    {
+        "opteboxId": 1128,
+        "route": "DP02",
+        "daysWithData": 2,
+        "daysWithLetter": 0
+    },
+    {
+        "opteboxId": 1024,
+        "route": "DP04",
+        "daysWithData": 2,
+        "daysWithLetter": 0
+    },
+    {
+        "opteboxId": 1032,
+        "route": "DP01",
+        "daysWithData": 2,
+        "daysWithLetter": 0
+    },
+    {
+        "opteboxId": 1055,
+        "route": "DP01",
+        "daysWithData": 2,
+        "daysWithLetter": 2
+    },
+    {
+        "opteboxId": 1017,
+        "route": "DP04",
+        "daysWithData": 2,
+        "daysWithLetter": 2
+    },
+    {
+        "opteboxId": 1054,
+        "route": "DP01",
+        "daysWithData": 2,
+        "daysWithLetter": 2
+    },
+    {
+        "opteboxId": 1131,
+        "route": "DP03",
+        "daysWithData": 2,
+        "daysWithLetter": 2
+    },
+    {
+        "opteboxId": 1125,
+        "route": "DP03",
+        "daysWithData": 2,
+        "daysWithLetter": 2
+    },
+    {
+        "opteboxId": 1121,
+        "route": "DP03",
+        "daysWithData": 2,
+        "daysWithLetter": 2
+    },
+    {
+        "opteboxId": 1123,
+        "route": "DP03",
+        "daysWithData": 2,
+        "daysWithLetter": 2
+    },
+    {
+        "opteboxId": 1120,
+        "route": "DP03",
+        "daysWithData": 2,
+        "daysWithLetter": 0
+    },
+    {
+        "opteboxId": 1119,
+        "route": "DP03",
+        "daysWithData": 2,
+        "daysWithLetter": 2
+    },
+    {
+        "opteboxId": 1028,
+        "route": "DP01",
+        "daysWithData": 2,
+        "daysWithLetter": 1
+    },
+    {
+        "opteboxId": 1033,
+        "route": "DP01",
+        "daysWithData": 2,
+        "daysWithLetter": 0
+    },
+    {
+        "opteboxId": 1148,
+        "route": "DP01",
+        "daysWithData": 2,
+        "daysWithLetter": 2
+    },
+    {
+        "opteboxId": 1150,
+        "route": "DP01",
+        "daysWithData": 2,
+        "daysWithLetter": 0
+    },
+    {
+        "opteboxId": 1014,
+        "route": "DP01",
+        "daysWithData": 2,
+        "daysWithLetter": 0
+    },
+    {
+        "opteboxId": 1005,
+        "route": "DP01",
+        "daysWithData": 2,
+        "daysWithLetter": 2
+    },
+    {
+        "opteboxId": 1007,
+        "route": "DP01",
+        "daysWithData": 2,
+        "daysWithLetter": 1
+    },
+    {
+        "opteboxId": 1003,
+        "route": "DP01",
+        "daysWithData": 0,
+        "daysWithLetter": 0
+    },
+    {
+        "opteboxId": 1004,
+        "route": "DP01",
+        "daysWithData": 2,
+        "daysWithLetter": 0
+    },
+    {
+        "opteboxId": 1001,
+        "route": "DP01",
+        "daysWithData": 2,
+        "daysWithLetter": 0
+    },
+    {
+        "opteboxId": 1021,
+        "route": "DP04",
+        "daysWithData": 2,
+        "daysWithLetter": 2
+    },
+    {
+        "opteboxId": 1006,
+        "route": "DP01",
+        "daysWithData": 2,
+        "daysWithLetter": 2
+    },
+    {
+        "opteboxId": 1040,
+        "route": "DP03",
+        "daysWithData": 2,
+        "daysWithLetter": 0
+    },
+    {
+        "opteboxId": 1051,
+        "route": "DP03",
+        "daysWithData": 2,
+        "daysWithLetter": 2
+    },
+    {
+        "opteboxId": 1124,
+        "route": "DP03",
+        "daysWithData": 2,
+        "daysWithLetter": 0
+    },
+    {
+        "opteboxId": 1052,
+        "route": "DP03",
+        "daysWithData": 2,
+        "daysWithLetter": 2
+    },
+    {
+        "opteboxId": 1046,
+        "route": "DP03",
+        "daysWithData": 2,
+        "daysWithLetter": 0
+    },
+    {
+        "opteboxId": 1118,
+        "route": "DP03",
+        "daysWithData": 2,
+        "daysWithLetter": 1
+    },
+    {
+        "opteboxId": 1050,
+        "route": "DP03",
+        "daysWithData": 2,
+        "daysWithLetter": 2
+    },
+    {
+        "opteboxId": 1047,
+        "route": "DP03",
+        "daysWithData": 2,
+        "daysWithLetter": 2
+    },
+    {
+        "opteboxId": 1045,
+        "route": "DP03",
+        "daysWithData": 2,
+        "daysWithLetter": 0
+    },
+    {
+        "opteboxId": 1031,
+        "route": "DP01",
+        "daysWithData": 2,
+        "daysWithLetter": 1
+    },
+    {
+        "opteboxId": 1035,
+        "route": "DP01",
+        "daysWithData": 2,
+        "daysWithLetter": 0
+    },
+    {
+        "opteboxId": 1127,
+        "route": "DP03",
+        "daysWithData": 2,
+        "daysWithLetter": 2
+    },
+    {
+        "opteboxId": 1126,
+        "route": "DP03",
+        "daysWithData": 2,
+        "daysWithLetter": 1
+    },
+    {
+        "opteboxId": 1122,
+        "route": "DP03",
+        "daysWithData": 2,
+        "daysWithLetter": 0
+    },
+    {
+        "opteboxId": 1129,
+        "route": "DP03",
+        "daysWithData": 2,
+        "daysWithLetter": 0
+    },
+    {
+        "opteboxId": 1049,
+        "route": "DP03",
+        "daysWithData": 2,
+        "daysWithLetter": 2
+    },
+    {
+        "opteboxId": 1130,
+        "route": "DP03",
+        "daysWithData": 2,
+        "daysWithLetter": 2
+    },
+    {
+        "opteboxId": 1036,
+        "route": "DP01",
+        "daysWithData": 2,
+        "daysWithLetter": 2
+    },
+    {
+        "opteboxId": 1038,
+        "route": "DP01",
+        "daysWithData": 2,
+        "daysWithLetter": 0
+    },
+    {
+        "opteboxId": 1034,
+        "route": "DP01",
+        "daysWithData": 2,
+        "daysWithLetter": 2
+    },
+    {
+        "opteboxId": 1039,
+        "route": "DP03",
+        "daysWithData": 2,
+        "daysWithLetter": 0
+    }
+]

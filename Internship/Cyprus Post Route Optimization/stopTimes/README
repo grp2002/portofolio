@@ -1,0 +1,54 @@
+# README
+
+## Overview
+
+This Python script analyzes a user's journey data to determine the proximity of their path to various mailboxes and calculates the total distance traveled. Additionally, it identifies the best matching route based on visited mailboxes.
+
+## Features
+
+- Calculate the distance between two geographical points using the Haversine formula.
+- Determine if a user is within a specified range of a mailbox.
+- Load mailbox locations from a JSON file.
+- Read user journey data from a CSV file.
+- Compute the user's speed and filter data based on a walking speed threshold.
+- Create a route map to associate mailboxes with routes.
+- Identify the best matching route for visited mailboxes and report missing or unmatched boxes.
+- Output stop times at each mailbox to a CSV file and print the results to the console.
+
+## File Descriptions
+
+- `boxLocations.json`: Contains mailbox locations with latitude and longitude data.
+- `5.7(makris).csv`: Contains user journey data with latitude, longitude, and time in the format of "Lat, Lng, Time".(Change according to the journey you want to process)
+- `opteboxes.json`: Contains route information with `route` and `opteboxId` fields.
+- `stoptimes.csv`: Output file containing the amount of time the user was within range of each mailbox.
+
+## Functions
+
+### distance_between_points(lat1, lon1, lat2, lon2)
+Calculates the distance between two geographical points using the Haversine formula.
+
+### is_user_in_range(user_lat, user_lon, mailbox_lat, mailbox_lon, range_meters)
+Determines if the user is within a specified range (in meters) of a mailbox.
+
+### load_mailboxes(filename)
+Loads mailbox locations from a JSON file. Returns a list of tuples containing mailbox ID, latitude, and longitude.
+
+### create_route_map(filename)
+Loads route information from a JSON file. Returns a dictionary mapping routes to lists of `opteboxId`s.
+
+### find_best_matching_route(route_map, optebox_ids)
+Finds the best matching route for a set of visited `opteboxId`s. Returns the best route, missing boxes, and unmatched boxes.
+
+### read_csv_data(filename)
+Reads user journey data from a CSV file. Returns a list of tuples containing latitude, longitude, and time (in seconds).
+
+### format_time(seconds)
+Formats time in seconds to a string in the "MM:SS" format.
+
+### user_speed(prev_lat, prev_lon, lat, lng, prev_time, time)
+Calculates the user's speed between two points. Returns speed in km/h.
+
+## Notes
+
+- The walking speed threshold can be adjusted by modifying the `walking_speed_threshold` variable in the `main()` function.
+- The range to check if a user is near a mailbox is set to 20 meters but can be modified in the `is_user_in_range()` function call.
