@@ -7,7 +7,7 @@ This folder contains all the projects completed during my internship at **CyRIC 
 ## 📂 Projects
 
 ### 📦 [Cyprus Post Route Optimization System](https://github.com/grp2002/portofolio/tree/main/Internship/Cyprus%20Post%20Route%20Optimization)  
-- Developed and tested a postal **route optimization system**.  
+- Tested a postal **route optimization system**.  
 - Implemented **real-time tracking** and **data validation** in the mobile app.  
 - Created a **Java console app** for sensor monitoring and **email alerts**.
 
