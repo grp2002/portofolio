@@ -25,13 +25,3 @@ As part of my internship at **CyRIC**, I contributed to the development of a **R
 - Automated monitoring processes, cutting down on manual checks.  
 - Streamlined system validation with automated data analysis scripts.
 
-## 🔒 Confidentiality Note
-
-> *Due to company confidentiality, the source code for this project cannot be shared. This repository contains only high-level documentation and general descriptions of my contributions.*
-
----
-
-## 📄 License
-
-This project was developed during my internship at **Cyprus Research & Innovation Centre (CyRIC)** and is presented here for professional portfolio purposes only.
-
