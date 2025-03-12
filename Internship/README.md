@@ -21,12 +21,11 @@ This folder contains all the projects completed during my internship at **CyRIC 
 > *Due to company confidentiality, the source code for this project cannot be shared. This repository contains only high-level documentation and general descriptions of my contributions.*
 
 ---
-
-## 📄 License
-
-This project was developed during my internship at **Cyprus Research & Innovation Centre (CyRIC)** and is presented here for professional portfolio purposes only.
-
 ## 📄 Additional Documentation
 
 - [Internship Report](https://github.com/grp2002/portofolio/blob/main/Internship/GregorisPaphiti_InternReport%20(1).PDF)
 
+---
+## 📄 License
+
+This project was developed during my internship at **Cyprus Research & Innovation Centre (CyRIC)** and is presented here for professional portfolio purposes only.
