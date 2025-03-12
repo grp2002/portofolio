@@ -18,7 +18,7 @@ This Python script analyzes a user's journey data to determine the proximity of 
 ## File Descriptions
 
 - `boxLocations.json`: Contains mailbox locations with latitude and longitude data.
-- `5.7(makris).csv`: Contains user journey data with latitude, longitude, and time in the format of "Lat, Lng, Time".(Change according to the journey you want to process)
+- `5.7.csv`: Contains user journey data with latitude, longitude, and time in the format of "Lat, Lng, Time".(Change according to the journey you want to process)
 - `opteboxes.json`: Contains route information with `route` and `opteboxId` fields.
 - `stoptimes.csv`: Output file containing the amount of time the user was within range of each mailbox.
 
