@@ -11,11 +11,20 @@ This folder contains all the projects completed during my internship at **CyRIC 
 - Implemented **real-time tracking** and **data validation** in the mobile app.  
 - Created a **Java console app** for sensor monitoring and **email alerts**.
 
-### 🔒 [Sensor Monitoring & Notification System](https://github.com/grp2002/portofolio/tree/main/Internship/Sensor%20Monitoring%20and%20Notification%20System)  
+### 💻 [Sensor Monitoring & Notification System](https://github.com/grp2002/portofolio/tree/main/Internship/Sensor%20Monitoring%20and%20Notification%20System)  
 - Built a system to **monitor sensor activity** and automate **email notifications**.  
 - Enhanced system reliability and reduced manual monitoring efforts.
 
 ---
+## 🔒 Confidentiality Note
+
+> *Due to company confidentiality, the source code for this project cannot be shared. This repository contains only high-level documentation and general descriptions of my contributions.*
+
+---
+
+## 📄 License
+
+This project was developed during my internship at **Cyprus Research & Innovation Centre (CyRIC)** and is presented here for professional portfolio purposes only.
 
 ## 📄 Additional Documentation
 
