@@ -6,7 +6,7 @@ This document presents the analysis of postal collection routes for optimizing t
 - Identifying **stop locations** where postmen spent time collecting letters.
 - **Optimizing routes** to reduce travel time and increase efficiency.
 - **Visualizing** real-world vs. optimized routes.
-- **Data analysis performed using Python and NumPy** for route optimization and statistical evaluation.
+- **Data analysis performed using Python and Jupyter Notebook** for route optimization and statistical evaluation.
 
 ## 📂 Data Collection & Processing
 ### 💡 How the Data Was Collected
@@ -76,5 +76,5 @@ This study successfully **demonstrates the power of GPS tracking and data-driven
 ✅ **Reduced operational costs.**
 ✅ **Better-informed route adjustments.**
 
-By leveraging these insights and using **Python and NumPy for data analysis**, postal operations can significantly **improve efficiency, save fuel, and reduce collection time**. 🚀
+By leveraging these insights and using **Python and Jupyter Notebook for data analysis**, postal operations can significantly **improve efficiency, save fuel, and reduce collection time**. 🚀
 
