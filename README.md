@@ -44,7 +44,7 @@ Showcasing personal and collaborative projects.
 
 ---
 
-### 🚗 [Gesture-Controlled Car](https://github.com/grp2002/portfolio/tree/main/Gesture-Controlled%20Car)  
+### 🚗 [Gesture-Controlled Car]((https://github.com/grp2002/portofolio/tree/main/Gesture-Controlled%20Car))  
 **Arduino, Sensors, Embedded Systems**  
 - Created a car controlled by **hand gestures** using a gyroscope sensor.  
 - Focused on developing **responsive and intuitive controls**.
