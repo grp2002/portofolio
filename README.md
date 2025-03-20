@@ -34,7 +34,7 @@ Showcasing personal and collaborative projects.
 
 ---
 
-### 🌿 [Automatic Plant Irrigation System (Dissertation)](https://github.com/grp2002/portfolio/tree/main/Automatic-Plant-Irrigation-System)  
+### 🌿 [Automatic Plant Irrigation System (Dissertation)](https://github.com/grp2002/portofolio/tree/main/IoT-Based%20Automated%20Irrigation%20System)  
 **Arduino, React Native, Node.js, IoT**  
 - Awarded a **First-Class** grade for this **dissertation project**.  
 - Developed an **automated irrigation system** using **soil moisture sensors** for smart watering.  
@@ -44,7 +44,7 @@ Showcasing personal and collaborative projects.
 
 ---
 
-### 🚗 [Gesture-Controlled Car](https://github.com/grp2002/portfolio/tree/main/Gesture-Controlled-Car)  
+### 🚗 [Gesture-Controlled Car](https://github.com/grp2002/portfolio/tree/main/Gesture-Controlled%20Car)  
 **Arduino, Sensors, Embedded Systems**  
 - Created a car controlled by **hand gestures** using a gyroscope sensor.  
 - Focused on developing **responsive and intuitive controls**.
