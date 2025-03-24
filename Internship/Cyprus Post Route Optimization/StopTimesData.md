@@ -45,7 +45,9 @@ This document presents the analysis of postal collection routes for optimizing t
 - **Bar charts** illustrate:
   - **Average stop duration** across all locations.
   - **Standard deviation**, showing variation in stop times.
+  
 ![image](https://github.com/user-attachments/assets/dc4c71e5-5c83-4579-b734-67085cdecb27)
+
 ![image](https://github.com/user-attachments/assets/ad7d22ae-6b9b-49a3-8f11-d6ca351b86fc)
 
 - **Outlier detection**:
