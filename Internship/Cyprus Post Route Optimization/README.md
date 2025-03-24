@@ -2,6 +2,8 @@
 
 **Internship Project | Cyprus Research & Innovation Centre (CyRIC)**
 
+[CyRIC's OPTeBOX Project Overview](https://www.cyric.eu/project/optebox/)
+
 ## 📖 Project Overview
 
 As part of my internship at **CyRIC**, I contributed to the development of a **Route Optimization System** for the Cyprus Post Office. The system aimed to streamline letter collection operations by optimizing postman routes, reducing collection time, and improving operational efficiency.
