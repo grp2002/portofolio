@@ -58,6 +58,10 @@ Showcasing personal and collaborative projects.
 
 ---
 
+## 📄 **Resume/CV**
+📌 [![CV](https://img.shields.io/badge/View%20My-CV-blue)](https://github.com/grp2002/portofolio/blob/main/Gregory%20Paphiti%20CV.pdf)
+---
+
 ## 📫 **Let's Connect**
 
 - 📧 [gregorypafitis@gmail.com](mailto:gregorypafitis@gmail.com)  
